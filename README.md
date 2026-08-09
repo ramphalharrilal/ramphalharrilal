@@ -18,11 +18,16 @@ I am an IT support professional, WordPress website administrator, and Computer S
 
 ## Portfolio
 
-💻 Java Projects
+## Featured Portfolio
 
-🧪 Manual QA Portfolio
+### [Java Projects](https://github.com/ramphalharrilal/java-projects)
 
-📚 IT Support Documentation
+Eight documented Java applications demonstrating object oriented programming, graphical user interfaces, collections, data analysis, Java Streams, interfaces, and input validation.
+
+🧪 **Manual QA Portfolio** — In development
+
+📚 **IT Support Documentation** — In development
+
 
 ## Currently Learning
 
