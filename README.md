@@ -22,6 +22,9 @@ I am an IT support professional, WordPress website administrator, and Computer S
 
 * [Java Projects](https://github.com/ramphalharrilal/java-projects)
   Eight documented Java applications demonstrating programming fundamentals, object oriented programming, Swing, collections, and problem solving.
+  
+  * [Python Projects](https://github.com/ramphalharrilal/python-projects)
+  Four tested learning projects demonstrating file handling, dictionaries, string processing, exception handling, validation, and structured data.
 
 * [Manual QA Portfolio](https://github.com/ramphalharrilal/manual-qa-portfolio)
   Sample test plans, test cases, bug reports, and regression checklists for a fictional ecommerce application.
