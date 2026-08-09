@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fdcdc03d-e5a3-454e-a9e8-e969f66a16a0" /># Hi, I’m Ramphal Harrilal 👋
+# Hi, I’m Ramphal Harrilal 👋
 
 I am an IT support professional, WordPress website administrator, and Computer Science student who enjoys solving technical problems and creating practical solutions that make work easier.
 
