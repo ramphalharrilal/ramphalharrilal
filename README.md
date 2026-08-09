@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I’m Ramphal Harrilal 👋
 
-<!--
-**ramphalharrilal/ramphalharrilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT support professional, WordPress website administrator, and Computer Science student who enjoys solving technical problems and creating practical solutions that make work easier.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Experienced in troubleshooting Windows, Microsoft 365, printers, connectivity, and user account issues
+
+🌐 Experienced in website administration, content updates, digital communications, and technical support
+
+🧪 Building hands on experience in manual QA testing, test cases, and bug reporting
+
+☕ Developing Java projects as part of my Computer Science degree
+
+🔐 Working toward a career in IT support and cybersecurity
+
+📍 Houston, Texas
+
+## Portfolio
+
+💻 Java Projects
+
+🧪 Manual QA Portfolio
+
+📚 IT Support Documentation
+
+## Currently Learning
+
+Java programming, cybersecurity fundamentals, manual software testing, and technical documentation.
+
+## Connect With Me
+
+[View my Upwork profile](https://www.upwork.com/freelancers/~0123e265f21c212396)
+
+I am open to remote opportunities where I can contribute, learn, and become a valuable part of the team.
