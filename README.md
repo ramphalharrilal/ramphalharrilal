@@ -10,6 +10,7 @@ I solve everyday operational problems with reliable technical support, clear doc
 
 | Project | Business value | Engineering evidence |
 | --- | --- | --- |
+| [RelayDesk: WhatsApp Support Operations](https://github.com/ramphalharrilal/whatsapp-support-operations) | Routes WhatsApp support safely, creates prioritized tickets, and moves customers to human agents | Node.js 22, signed webhooks, state machine, privacy redaction, REST API, Docker, automated tests, GitHub Actions |
 | [Hardware Inventory System](https://github.com/ramphalharrilal/hardware-inventory-system) | Helps retail staff find products, monitor stock risk, and understand inventory value | Java 17, Swing, Maven, JUnit, CSV validation, layered architecture, GitHub Actions |
 | [IT Support Documentation](https://github.com/ramphalharrilal/it-support-documentation) | Gives support teams repeatable runbooks for incidents, onboarding, escalation, and security response | Windows, Microsoft 365, networking, printers, WordPress, phishing triage |
 | [Manual QA Portfolio](https://github.com/ramphalharrilal/manual-qa-portfolio) | Demonstrates risk-based testing and clear defect communication across critical user journeys | Test plans, test cases, regression coverage, bug reporting, severity and priority |
@@ -17,6 +18,7 @@ I solve everyday operational problems with reliable technical support, clear doc
 
 ## Results I Have Delivered
 
+- Built RelayDesk, a privacy-aware WhatsApp support operations system with human handoff, ticketing, and webhook validation.
 - Supported a 400-student service environment and handled 40 to 45 daily support interactions at Humble ISD.
 - Helped move a high-volume administrative workflow to approximately 60% paperless processing.
 - Built and maintained the KMCA community website, forms, payment access, resident communications, and shared digital records.
