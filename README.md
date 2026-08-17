@@ -77,26 +77,36 @@ RelayDesk demonstrates how I approach production-minded support tooling: authent
 
 [Explore the repository →](https://github.com/ramphalharrilal/whatsapp-support-operations)
 
-## Tools I work with
+## Software & platforms
 
-**Support & operations**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,docker,wordpress,html,css,js,nodejs,java,maven,py,powershell,mysql,githubactions&amp;perline=8&amp;theme=dark" alt="Windows, VS Code, Git, GitHub, Docker, WordPress, HTML, CSS, JavaScript, Node.js, Java, Maven, Python, PowerShell, SQL and GitHub Actions" />
+</p>
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&amp;logo=microsoftoffice&amp;logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-334155?style=flat-square&amp;logo=cisco&amp;logoColor=white)
-![Manual QA](https://img.shields.io/badge/Manual_QA-7c3aed?style=flat-square&amp;logo=checkmarx&amp;logoColor=white)
+<p align="center"><sub>Tools I use to deliver support, websites, QA, automation and software—not a list of everything I have ever opened.</sub></p>
 
-**Development & delivery**
+**Support & administration**
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&amp;logo=microsoftoffice&amp;logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&amp;logo=zendesk&amp;logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white)
+![Intercom](https://img.shields.io/badge/Intercom-6AFDEF?style=for-the-badge&amp;logo=intercom&amp;logoColor=111827)
+
+**Collaboration & client delivery**
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&amp;logo=zoom&amp;logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&amp;logo=asana&amp;logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white)
+
+**Quality & infrastructure**
+
+![Manual QA](https://img.shields.io/badge/Manual_QA-7C3AED?style=for-the-badge&amp;logo=checkmarx&amp;logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-2563EB?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0F766E?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-334155?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white)
 
 ## How I work
 

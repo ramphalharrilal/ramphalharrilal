@@ -4,15 +4,15 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071827"/><stop offset="1" stop-color="#312711"/></linearGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#fbbf24" stroke-opacity=".04"/></pattern>
-    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Liberation Mono,monospace}</style>
+    <clipPath id="clip"><rect x="1" y="1" width="568" height="236" rx="20"/></clipPath>
+    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Liberation Mono,monospace}@keyframes border{0%,100%{stroke-opacity:.25}50%{stroke-opacity:.58}}@keyframes sweep{from{transform:translateX(0)}to{transform:translateX(830px)}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}.border{animation:border 4.6s ease-in-out infinite}.shine{animation:sweep 7.1s .7s ease-in-out infinite}.icon{animation:float 3.4s ease-in-out infinite}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
   </defs>
-  <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#bg)" stroke="#fbbf24" stroke-opacity=".34"/>
+  <rect class="border" x="1" y="1" width="568" height="236" rx="20" fill="url(#bg)" stroke="#fbbf24" stroke-opacity=".34"/>
   <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#grid)"/>
+  <g clip-path="url(#clip)"><path class="shine" d="M-180 0h72L18 238h-72z" fill="#fde68a" opacity=".07"/></g>
   <rect x="28" y="26" width="146" height="26" rx="13" fill="#3b2d0d" stroke="#fbbf24" stroke-opacity=".46"/>
   <text class="s" x="101" y="43" text-anchor="middle" fill="#fde68a" font-size="10" font-weight="800" letter-spacing="1.1">DESKTOP SYSTEM</text>
-  <g transform="translate(492 24)" fill="none" stroke="#fcd34d" stroke-width="2">
-    <rect x="0" y="3" width="34" height="29" rx="4"/><path d="M7 11h20M7 18h13M7 25h17"/>
-  </g>
+  <g class="icon"><g transform="translate(492 24)" fill="none" stroke="#fcd34d" stroke-width="2"><rect x="0" y="3" width="34" height="29" rx="4"/><path d="M7 11h20M7 18h13M7 25h17"/></g></g>
   <text class="s" x="28" y="91" fill="#f8fafc" font-size="27" font-weight="780">Hardware Inventory</text>
   <text class="s" x="28" y="117" fill="#f8cf68" font-size="15" font-weight="650">Inventory decisions made faster</text>
   <text class="s" x="28" y="150" fill="#b6c5d6" font-size="13.5">Product lookup, stock-risk monitoring and inventory</text>

@@ -4,15 +4,15 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071827"/><stop offset="1" stop-color="#30214a"/></linearGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#c084fc" stroke-opacity=".04"/></pattern>
-    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Liberation Mono,monospace}</style>
+    <clipPath id="clip"><rect x="1" y="1" width="568" height="236" rx="20"/></clipPath>
+    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Liberation Mono,monospace}@keyframes border{0%,100%{stroke-opacity:.25}50%{stroke-opacity:.62}}@keyframes sweep{from{transform:translateX(0)}to{transform:translateX(830px)}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}.border{animation:border 4.8s ease-in-out infinite}.shine{animation:sweep 7.4s 1.8s ease-in-out infinite}.icon{animation:float 3.7s ease-in-out infinite}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
   </defs>
-  <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#bg)" stroke="#c084fc" stroke-opacity=".35"/>
+  <rect class="border" x="1" y="1" width="568" height="236" rx="20" fill="url(#bg)" stroke="#c084fc" stroke-opacity=".35"/>
   <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#grid)"/>
+  <g clip-path="url(#clip)"><path class="shine" d="M-180 0h72L18 238h-72z" fill="#e9d5ff" opacity=".065"/></g>
   <rect x="28" y="26" width="113" height="26" rx="13" fill="#362251" stroke="#c084fc" stroke-opacity=".5"/>
   <text class="s" x="84.5" y="43" text-anchor="middle" fill="#e9d5ff" font-size="10" font-weight="800" letter-spacing="1.1">CLIENT WORK</text>
-  <g transform="translate(492 26)" fill="none" stroke="#d8b4fe" stroke-width="2">
-    <rect x="1" y="1" width="36" height="29" rx="4"/><path d="M1 9h36M8 5h.1M13 5h.1M18 5h.1M10 16h8v8h-8zM22 16h9M22 21h9"/>
-  </g>
+  <g class="icon"><g transform="translate(492 26)" fill="none" stroke="#d8b4fe" stroke-width="2"><rect x="1" y="1" width="36" height="29" rx="4"/><path d="M1 9h36M8 5h.1M13 5h.1M18 5h.1M10 16h8v8h-8zM22 16h9M22 21h9"/></g></g>
   <text class="s" x="28" y="91" fill="#f8fafc" font-size="27" font-weight="780">Client &amp; Digital Ops</text>
   <text class="s" x="28" y="117" fill="#d2acf7" font-size="15" font-weight="650">Websites, workflows and delivery</text>
   <text class="s" x="28" y="150" fill="#b6c5d6" font-size="13.5">Digital systems and communications delivered for</text>
