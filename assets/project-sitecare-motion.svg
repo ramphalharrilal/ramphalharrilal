@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="238" viewBox="0 0 570 238" role="img" aria-labelledby="title desc">
+  <title id="title">SiteCare project card</title>
+  <desc id="desc">Live website care monitor that translates availability, speed, certificate and inquiry checks into clear business actions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06161d"/><stop offset="1" stop-color="#0b3530"/></linearGradient>
+    <radialGradient id="glow" cx=".92" cy=".05"><stop stop-color="#52f2ae" stop-opacity=".2"/><stop offset="1" stop-color="#52f2ae" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#75e8c0" stroke-opacity=".045"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="568" height="236" rx="20"/></clipPath>
+    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Liberation Mono,monospace}@keyframes border{0%,100%{stroke-opacity:.35;stroke-width:1}50%{stroke-opacity:.9;stroke-width:2}}@keyframes sweep{from{transform:translateX(0)}to{transform:translateX(830px)}}@keyframes pulse{0%,100%{transform:scale(.9);opacity:.7}50%{transform:scale(1.12);opacity:1}}@keyframes bars{0%,100%{transform:scaleY(.72)}50%{transform:scaleY(1)}}.border{animation:border 3s ease-in-out infinite}.shine{animation:sweep 4.2s ease-in-out infinite}.pulse{animation:pulse 2.2s ease-in-out infinite;transform-origin:510px 42px}.bars{animation:bars 2.8s ease-in-out infinite;transform-origin:center 74px}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  </defs>
+  <rect class="border" x="1" y="1" width="568" height="236" rx="20" fill="url(#bg)" stroke="#52f2ae" stroke-opacity=".38"/>
+  <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#glow)"/>
+  <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#grid)"/>
+  <g clip-path="url(#clip)"><path class="shine" d="M-180 0h92L38 238h-92z" fill="#a7f3d0" opacity=".16"/></g>
+  <rect x="28" y="26" width="112" height="26" rx="13" fill="#0d493e" stroke="#6ee7b7" stroke-opacity=".5"/>
+  <circle class="pulse" cx="42" cy="39" r="4" fill="#52f2ae"/>
+  <text class="s" x="91" y="43" text-anchor="middle" fill="#a7f3d0" font-size="10" font-weight="800" letter-spacing="1.1">LIVE SOLUTION</text>
+  <g class="bars" fill="#52f2ae">
+    <rect x="475" y="51" width="7" height="23" rx="3" opacity=".38"/>
+    <rect x="488" y="42" width="7" height="32" rx="3" opacity=".55"/>
+    <rect x="501" y="32" width="7" height="42" rx="3" opacity=".72"/>
+    <rect x="514" y="22" width="7" height="52" rx="3" opacity=".9"/>
+    <rect x="527" y="37" width="7" height="37" rx="3" opacity=".62"/>
+  </g>
+  <text class="s" x="28" y="91" fill="#f8fafc" font-size="27" font-weight="780">SiteCare</text>
+  <text class="s" x="28" y="117" fill="#83e9c7" font-size="15" font-weight="650">Website Care Monitor</text>
+  <text class="s" x="28" y="150" fill="#b6c5d6" font-size="13.5">Know when a website is costing customers—then see</text>
+  <text class="s" x="28" y="171" fill="#b6c5d6" font-size="13.5">the clearest next action before more leads are lost.</text>
+  <text class="m" x="28" y="210" fill="#8ba3b8" font-size="11.5">LIVE DASHBOARD   CUSTOMER ACCESS   TRUST   INQUIRIES</text>
+</svg>

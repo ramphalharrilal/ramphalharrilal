@@ -26,8 +26,8 @@
       <p>Clear workflows, reliable handoffs and measurable improvements built around real work.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>💻 Engineering</h3>
-      <p>Practical Java, JavaScript and automation projects with tests, CI and security thinking.</p>
+      <h3>💻 Solutions</h3>
+      <p>Websites, monitoring, support tools and business systems built around useful outcomes.</p>
     </td>
   </tr>
 </table>
@@ -47,35 +47,35 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ramphalharrilal/whatsapp-support-operations">
-        <img src="assets/project-relaydesk-motion.svg" width="100%" alt="RelayDesk WhatsApp Support Operations" />
+      <a href="https://ramphalharrilal.github.io/website-care-monitor/">
+        <img src="assets/project-sitecare-motion.svg" width="100%" alt="SiteCare Website Care Monitor" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ramphalharrilal/hardware-inventory-system">
-        <img src="assets/project-inventory-motion.svg" width="100%" alt="Hardware Inventory System" />
+      <a href="https://github.com/ramphalharrilal/whatsapp-support-operations">
+        <img src="assets/project-relaydesk-motion.svg" width="100%" alt="RelayDesk WhatsApp Support Operations" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ramphalharrilal/it-support-documentation">
-        <img src="assets/project-service-desk-motion.svg" width="100%" alt="IT Service Desk Operations Playbook" />
+      <a href="https://github.com/ramphalharrilal/hardware-inventory-system">
+        <img src="assets/project-inventory-motion.svg" width="100%" alt="Hardware Inventory System" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://ramphalharrilal.github.io/">
-        <img src="assets/project-client-ops-motion.svg" width="100%" alt="Client and Digital Operations Portfolio" />
+      <a href="https://github.com/ramphalharrilal/it-support-documentation">
+        <img src="assets/project-service-desk-motion.svg" width="100%" alt="IT Service Desk Operations Playbook" />
       </a>
     </td>
   </tr>
 </table>
 
-### RelayDesk — flagship case study
+### SiteCare — flagship live solution
 
-RelayDesk demonstrates how I approach production-minded support tooling: authenticated webhook intake, deterministic knowledge responses, sensitive-data redaction, prioritized ticketing, explicit human ownership and measurable service operations.
+SiteCare answers the questions a business owner actually needs resolved: can customers reach the website, trust it and contact the business? It turns availability, speed, certificate and inquiry-path checks into plain-language priorities so the most important fix is obvious.
 
-[Explore the repository →](https://github.com/ramphalharrilal/whatsapp-support-operations)
+[Open the live dashboard →](https://ramphalharrilal.github.io/website-care-monitor/) · [Explore the repository →](https://github.com/ramphalharrilal/website-care-monitor)
 
 ## Software & platforms
 
