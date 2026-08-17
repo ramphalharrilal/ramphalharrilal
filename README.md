@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header-motion.svg" width="100%" alt="Ramphal Harrilal — IT Support, Technical Operations and Practical Software Solutions" />
+  <img src="assets/profile-header-motion.svg" width="100%" alt="Ramphal Harrilal — Websites, Support and Practical Business Solutions" />
 </p>
 
 <p align="center">
@@ -117,7 +117,7 @@ SiteCare answers the questions a business owner actually needs resolved: can cus
 
 ## Current direction
 
-I am completing a **Bachelor of Science in Computer Science** while deepening my capability across IT support, automation, software quality and cybersecurity. I am interested in remote roles where calm customer support, technical problem-solving and process improvement matter equally.
+I am completing a **Bachelor of Science in Computer Science** while continuing to build customer-facing websites, support operations and quality processes. I am interested in remote roles where calm customer support, practical problem-solving and process improvement matter equally.
 
 <p align="center">
   <strong>Have a support, website or operations problem that needs a practical solution?</strong><br /><br />
