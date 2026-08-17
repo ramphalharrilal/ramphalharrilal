@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Ramphal Harrilal — IT Support, Technical Operations and Practical Software Solutions" />
+  <img src="assets/profile-header-motion.svg" width="100%" alt="Ramphal Harrilal — IT Support, Technical Operations and Practical Software Solutions" />
 </p>
 
 <p align="center">
@@ -48,24 +48,24 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ramphalharrilal/whatsapp-support-operations">
-        <img src="assets/project-relaydesk.svg" width="100%" alt="RelayDesk WhatsApp Support Operations" />
+        <img src="assets/project-relaydesk-motion.svg" width="100%" alt="RelayDesk WhatsApp Support Operations" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ramphalharrilal/hardware-inventory-system">
-        <img src="assets/project-inventory.svg" width="100%" alt="Hardware Inventory System" />
+        <img src="assets/project-inventory-motion.svg" width="100%" alt="Hardware Inventory System" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ramphalharrilal/it-support-documentation">
-        <img src="assets/project-service-desk.svg" width="100%" alt="IT Service Desk Operations Playbook" />
+        <img src="assets/project-service-desk-motion.svg" width="100%" alt="IT Service Desk Operations Playbook" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://ramphalharrilal.github.io/">
-        <img src="assets/project-client-ops.svg" width="100%" alt="Client and Digital Operations Portfolio" />
+        <img src="assets/project-client-ops-motion.svg" width="100%" alt="Client and Digital Operations Portfolio" />
       </a>
     </td>
   </tr>
