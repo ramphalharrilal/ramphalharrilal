@@ -5,11 +5,11 @@
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071827"/><stop offset="1" stop-color="#102a4a"/></linearGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#60a5fa" stroke-opacity=".045"/></pattern>
     <clipPath id="clip"><rect x="1" y="1" width="568" height="236" rx="20"/></clipPath>
-    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Liberation Mono,monospace}@keyframes border{0%,100%{stroke-opacity:.25}50%{stroke-opacity:.6}}@keyframes sweep{from{transform:translateX(0)}to{transform:translateX(830px)}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}.border{animation:border 4.3s ease-in-out infinite}.shine{animation:sweep 6.8s 1.2s ease-in-out infinite}.icon{animation:float 3.2s ease-in-out infinite}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Liberation Mono,monospace}@keyframes border{0%,100%{stroke-opacity:.32;stroke-width:1}50%{stroke-opacity:.9;stroke-width:2}}@keyframes sweep{from{transform:translateX(0)}to{transform:translateX(830px)}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}.border{animation:border 3.2s ease-in-out infinite}.shine{animation:sweep 4.5s 1s ease-in-out infinite}.icon{animation:float 2.6s ease-in-out infinite}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
   </defs>
   <rect class="border" x="1" y="1" width="568" height="236" rx="20" fill="url(#bg)" stroke="#60a5fa" stroke-opacity=".35"/>
   <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#grid)"/>
-  <g clip-path="url(#clip)"><path class="shine" d="M-180 0h72L18 238h-72z" fill="#bfdbfe" opacity=".065"/></g>
+  <g clip-path="url(#clip)"><path class="shine" d="M-180 0h92L38 238h-92z" fill="#bfdbfe" opacity=".16"/></g>
   <rect x="28" y="26" width="159" height="26" rx="13" fill="#122f54" stroke="#60a5fa" stroke-opacity=".5"/>
   <text class="s" x="107.5" y="43" text-anchor="middle" fill="#bfdbfe" font-size="10" font-weight="800" letter-spacing="1.1">OPERATIONS PLAYBOOK</text>
   <g class="icon"><g transform="translate(493 26)" fill="none" stroke="#93c5fd" stroke-width="2.1" stroke-linecap="round"><path d="M4 18a13 13 0 0 1 26 0v8M4 18v8h7v-10H4M30 18v8h-7v-10h7"/><path d="M23 29c0 4-3 5-7 5"/></g></g>
