@@ -1,39 +1,43 @@
-# Hi, I’m Ramphal Harrilal 👋
+# Ramphal Harrilal
 
-I am an IT support professional, WordPress website administrator, and Computer Science student who enjoys solving technical problems and creating practical solutions that make work easier.
+### IT Support • Technical Operations • Practical Software Solutions
 
-## About Me
+I solve everyday operational problems with reliable technical support, clear documentation, and software built around how people actually work. My experience spans IT support, website administration, digital workflows, software testing, and client delivery across the United States and Trinidad and Tobago.
 
-I am an IT support and technical customer support professional with hands on experience troubleshooting Windows devices, Microsoft 365, user accounts, printers, connectivity, websites, and digital workflows.
+[View my portfolio](https://ramphalharrilal.github.io/) · [Hire me on Upwork](https://www.upwork.com/freelancers/~0123e265f21c212396)
 
-I am currently pursuing a Bachelor of Science in Computer Science and have built portfolio projects in IT support documentation, manual QA testing, Java, and Python. I enjoy turning technical problems into clear, practical solutions and creating documentation that others can easily follow.
+## Selected Work
 
-My long term direction is IT Support and Cybersecurity, with a current focus on technical support, troubleshooting, software testing, and secure technical practices. I am open to remote IT support, technical support, QA, and entry level cybersecurity opportunities.
+| Project | Business value | Engineering evidence |
+| --- | --- | --- |
+| [Hardware Inventory System](https://github.com/ramphalharrilal/hardware-inventory-system) | Helps retail staff find products, monitor stock risk, and understand inventory value | Java 17, Swing, Maven, JUnit, CSV validation, layered architecture, GitHub Actions |
+| [IT Support Documentation](https://github.com/ramphalharrilal/it-support-documentation) | Gives support teams repeatable runbooks for incidents, onboarding, escalation, and security response | Windows, Microsoft 365, networking, printers, WordPress, phishing triage |
+| [Manual QA Portfolio](https://github.com/ramphalharrilal/manual-qa-portfolio) | Demonstrates risk-based testing and clear defect communication across critical user journeys | Test plans, test cases, regression coverage, bug reporting, severity and priority |
+| [Client and Operations Portfolio](https://ramphalharrilal.github.io/) | Shows websites, workflows, communications, marketing, and business tools delivered for real organizations | Web administration, stakeholder support, process improvement, digital operations |
 
-## Portfolio
+## Results I Have Delivered
 
-## Featured Portfolio
+- Supported a 400-student service environment and handled 40 to 45 daily support interactions at Humble ISD.
+- Helped move a high-volume administrative workflow to approximately 60% paperless processing.
+- Built and maintained the KMCA community website, forms, payment access, resident communications, and shared digital records.
+- Designed an inventory lookup workflow for a hardware retailer while keeping live business data and credentials out of the public repository.
+- Produced websites, promotions, documentation, and digital workflows for clients in the United States and Trinidad and Tobago.
 
-* [Java Projects](https://github.com/ramphalharrilal/java-projects)
-  Eight documented Java applications demonstrating programming fundamentals, object oriented programming, Swing, collections, and problem solving.
-  
-* [Python Projects](https://github.com/ramphalharrilal/python-projects)
-  Four tested learning projects demonstrating file handling, dictionaries, string processing, exception handling, validation, and structured data.
+## Technical Focus
 
-* [Manual QA Portfolio](https://github.com/ramphalharrilal/manual-qa-portfolio)
-  Sample test plans, test cases, bug reports, and regression checklists for a fictional ecommerce application.
+**Support and operations:** Windows, Microsoft 365, Google Workspace, user accounts, printers, connectivity, DNS, WordPress, ticket documentation, onboarding, and escalation
 
-* [IT Support Documentation](https://github.com/ramphalharrilal/it-support-documentation)
-  Practical troubleshooting guides, onboarding checklists, escalation templates, WordPress procedures, and phishing response documentation.
+**Development:** Java 17, Swing, Maven, JUnit, Python, HTML, CSS, JavaScript, Git, GitHub, CSV and structured data
 
+**Quality and security:** Manual QA, regression testing, defect reporting, safe change control, phishing response, privacy-aware portfolio design, and least-privilege thinking
 
+## Professional Direction
 
-## Currently Learning
+I am completing a Bachelor of Science in Computer Science while building deeper capability across IT support, automation, software quality, and cybersecurity. I am especially interested in remote roles where technical problem solving, calm customer support, and process improvement matter equally.
 
-Java programming, cybersecurity fundamentals, manual software testing, and technical documentation.
+## More Projects
 
-## Connect With Me
+- [Java application archive](https://github.com/ramphalharrilal/java-projects)
+- [Python fundamentals archive](https://github.com/ramphalharrilal/python-projects)
 
-[View my Upwork profile](https://www.upwork.com/freelancers/~0123e265f21c212396)
-
-I am open to remote opportunities where I can contribute, learn, and become a valuable part of the team.
+These repositories preserve earlier coursework and learning exercises. My featured work above represents the standard and direction of my current portfolio.
