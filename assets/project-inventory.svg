@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="238" viewBox="0 0 570 238" role="img" aria-labelledby="title desc">
+  <title id="title">Hardware Inventory System project card</title>
+  <desc id="desc">A Java desktop application for product lookup, stock risk, inventory value, and validated CSV data.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071827"/><stop offset="1" stop-color="#312711"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#fbbf24" stroke-opacity=".04"/></pattern>
+    <style>.s{font-family:Inter,Segoe UI,Arial,sans-serif}.m{font-family:Consolas,Liberation Mono,monospace}</style>
+  </defs>
+  <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#bg)" stroke="#fbbf24" stroke-opacity=".34"/>
+  <rect x="1" y="1" width="568" height="236" rx="20" fill="url(#grid)"/>
+  <rect x="28" y="26" width="146" height="26" rx="13" fill="#3b2d0d" stroke="#fbbf24" stroke-opacity=".46"/>
+  <text class="s" x="101" y="43" text-anchor="middle" fill="#fde68a" font-size="10" font-weight="800" letter-spacing="1.1">DESKTOP SYSTEM</text>
+  <g transform="translate(492 24)" fill="none" stroke="#fcd34d" stroke-width="2">
+    <rect x="0" y="3" width="34" height="29" rx="4"/><path d="M7 11h20M7 18h13M7 25h17"/>
+  </g>
+  <text class="s" x="28" y="91" fill="#f8fafc" font-size="27" font-weight="780">Hardware Inventory</text>
+  <text class="s" x="28" y="117" fill="#f8cf68" font-size="15" font-weight="650">Inventory decisions made faster</text>
+  <text class="s" x="28" y="150" fill="#b6c5d6" font-size="13.5">Product lookup, stock-risk monitoring and inventory</text>
+  <text class="s" x="28" y="171" fill="#b6c5d6" font-size="13.5">valuation with defensive CSV validation.</text>
+  <text class="m" x="28" y="210" fill="#8ba3b8" font-size="11.5">JAVA 17   SWING   MAVEN   JUNIT   CI</text>
+</svg>

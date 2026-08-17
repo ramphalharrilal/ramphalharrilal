@@ -1,45 +1,129 @@
-# Ramphal Harrilal
+<p align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Ramphal Harrilal — IT Support, Technical Operations and Practical Software Solutions" />
+</p>
 
-### IT Support • Technical Operations • Practical Software Solutions
+<p align="center">
+  <a href="https://ramphalharrilal.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white" alt="Visit portfolio" /></a>
+  <a href="https://www.upwork.com/freelancers/~0123e265f21c212396"><img src="https://img.shields.io/badge/Upwork-Available-14a800?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Hire Ramphal on Upwork" /></a>
+  <a href="mailto:harrilal20@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-2563eb?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Ramphal" /></a>
+</p>
 
-I solve everyday operational problems with reliable technical support, clear documentation, and software built around how people actually work. My experience spans IT support, website administration, digital workflows, software testing, and client delivery across the United States and Trinidad and Tobago.
+<p align="center">
+  I bridge the gap between <strong>people, operations and technology</strong>—supporting users calmly,
+  documenting what works and building practical systems that remove friction.
+</p>
 
-[View my portfolio](https://ramphalharrilal.github.io/) · [Hire me on Upwork](https://www.upwork.com/freelancers/~0123e265f21c212396)
+## What I bring
 
-## Selected Work
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛠️ Support</h3>
+      <p>Troubleshooting, user guidance, escalation and documentation that keep people productive.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ Operations</h3>
+      <p>Clear workflows, reliable handoffs and measurable improvements built around real work.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Engineering</h3>
+      <p>Practical Java, JavaScript and automation projects with tests, CI and security thinking.</p>
+    </td>
+  </tr>
+</table>
 
-| Project | Business value | Engineering evidence |
-| --- | --- | --- |
-| [RelayDesk: WhatsApp Support Operations](https://github.com/ramphalharrilal/whatsapp-support-operations) | Routes WhatsApp support safely, creates prioritized tickets, and moves customers to human agents | Node.js 22, signed webhooks, state machine, privacy redaction, REST API, Docker, automated tests, GitHub Actions |
-| [Hardware Inventory System](https://github.com/ramphalharrilal/hardware-inventory-system) | Helps retail staff find products, monitor stock risk, and understand inventory value | Java 17, Swing, Maven, JUnit, CSV validation, layered architecture, GitHub Actions |
-| [IT Support Documentation](https://github.com/ramphalharrilal/it-support-documentation) | Gives support teams repeatable runbooks for incidents, onboarding, escalation, and security response | Windows, Microsoft 365, networking, printers, WordPress, phishing triage |
-| [Manual QA Portfolio](https://github.com/ramphalharrilal/manual-qa-portfolio) | Demonstrates risk-based testing and clear defect communication across critical user journeys | Test plans, test cases, regression coverage, bug reporting, severity and priority |
-| [Client and Operations Portfolio](https://ramphalharrilal.github.io/) | Shows websites, workflows, communications, marketing, and business tools delivered for real organizations | Web administration, stakeholder support, process improvement, digital operations |
+## Impact at a glance
 
-## Results I Have Delivered
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>400</strong><br /><sub>students supported</sub></td>
+    <td width="33%" align="center"><strong>40–45</strong><br /><sub>daily support interactions</sub></td>
+    <td width="33%" align="center"><strong>≈60%</strong><br /><sub>paperless workflow achieved</sub></td>
+  </tr>
+</table>
 
-- Built RelayDesk, a privacy-aware WhatsApp support operations system with human handoff, ticketing, and webhook validation.
-- Supported a 400-student service environment and handled 40 to 45 daily support interactions at Humble ISD.
-- Helped move a high-volume administrative workflow to approximately 60% paperless processing.
-- Built and maintained the KMCA community website, forms, payment access, resident communications, and shared digital records.
-- Designed an inventory lookup workflow for a hardware retailer while keeping live business data and credentials out of the public repository.
-- Produced websites, promotions, documentation, and digital workflows for clients in the United States and Trinidad and Tobago.
+## Featured work
 
-## Technical Focus
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ramphalharrilal/whatsapp-support-operations">
+        <img src="assets/project-relaydesk.svg" width="100%" alt="RelayDesk WhatsApp Support Operations" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ramphalharrilal/hardware-inventory-system">
+        <img src="assets/project-inventory.svg" width="100%" alt="Hardware Inventory System" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ramphalharrilal/it-support-documentation">
+        <img src="assets/project-service-desk.svg" width="100%" alt="IT Service Desk Operations Playbook" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://ramphalharrilal.github.io/">
+        <img src="assets/project-client-ops.svg" width="100%" alt="Client and Digital Operations Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Support and operations:** Windows, Microsoft 365, Google Workspace, user accounts, printers, connectivity, DNS, WordPress, ticket documentation, onboarding, and escalation
+### RelayDesk — flagship case study
 
-**Development:** Java 17, Swing, Maven, JUnit, Python, HTML, CSS, JavaScript, Git, GitHub, CSV and structured data
+RelayDesk demonstrates how I approach production-minded support tooling: authenticated webhook intake, deterministic knowledge responses, sensitive-data redaction, prioritized ticketing, explicit human ownership and measurable service operations.
 
-**Quality and security:** Manual QA, regression testing, defect reporting, safe change control, phishing response, privacy-aware portfolio design, and least-privilege thinking
+[Explore the repository →](https://github.com/ramphalharrilal/whatsapp-support-operations)
 
-## Professional Direction
+## Tools I work with
 
-I am completing a Bachelor of Science in Computer Science while building deeper capability across IT support, automation, software quality, and cybersecurity. I am especially interested in remote roles where technical problem solving, calm customer support, and process improvement matter equally.
+**Support & operations**
 
-## More Projects
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&amp;logo=windows11&amp;logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&amp;logo=microsoftoffice&amp;logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-334155?style=flat-square&amp;logo=cisco&amp;logoColor=white)
+![Manual QA](https://img.shields.io/badge/Manual_QA-7c3aed?style=flat-square&amp;logo=checkmarx&amp;logoColor=white)
 
-- [Java application archive](https://github.com/ramphalharrilal/java-projects)
-- [Python fundamentals archive](https://github.com/ramphalharrilal/python-projects)
+**Development & delivery**
 
-These repositories preserve earlier coursework and learning exercises. My featured work above represents the standard and direction of my current portfolio.
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white)
+
+## How I work
+
+- **Start with the user:** understand the impact before reaching for a technical fix.
+- **Make work repeatable:** turn one successful resolution into a runbook, template or automation.
+- **Protect trust:** minimize sensitive data, validate inputs and make ownership explicit.
+- **Finish professionally:** test the result, document the decision and leave the next person a clear path.
+
+## Current direction
+
+I am completing a **Bachelor of Science in Computer Science** while deepening my capability across IT support, automation, software quality and cybersecurity. I am interested in remote roles where calm customer support, technical problem-solving and process improvement matter equally.
+
+<p align="center">
+  <strong>Have a support, website or operations problem that needs a practical solution?</strong><br /><br />
+  <a href="mailto:harrilal20@gmail.com">Email me</a>
+  &nbsp;•&nbsp;
+  <a href="https://ramphalharrilal.github.io/">View my portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.upwork.com/freelancers/~0123e265f21c212396">Hire me on Upwork</a>
+</p>
+
+<details>
+  <summary><strong>Earlier learning repositories</strong></summary>
+  <br />
+  <ul>
+    <li><a href="https://github.com/ramphalharrilal/java-projects">Java application archive</a></li>
+    <li><a href="https://github.com/ramphalharrilal/python-projects">Python fundamentals archive</a></li>
+  </ul>
+  <p>These repositories preserve earlier coursework. The featured systems above represent the standard and direction of my current portfolio.</p>
+</details>
