@@ -15,6 +15,11 @@
       <stop offset="0" stop-color="#6ee7b7"/>
       <stop offset="1" stop-color="#22d3ee"/>
     </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#a7f3d0" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" fill="none" stroke="#9ff4d2" stroke-opacity="0.055"/>
     </pattern>
@@ -24,16 +29,35 @@
     <style>
       .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
       .mono{font-family:SFMono-Regular,Consolas,Liberation Mono,monospace}
+      @keyframes breathe{0%,100%{opacity:.72}50%{opacity:1}}
+      @keyframes sweep{from{transform:translateX(0)}to{transform:translateX(1710px)}}
+      @keyframes floatY{0%,100%{transform:translateY(0)}50%{transform:translateY(-18px)}}
+      @keyframes floatX{0%,100%{transform:translateX(0)}50%{transform:translateX(-20px)}}
+      @keyframes status{0%,100%{opacity:.55;transform:scale(.82)}50%{opacity:1;transform:scale(1.18)}}
+      @keyframes spotlight{0%,22%,100%{opacity:.5}11%{opacity:1}}
+      @keyframes spin{to{transform:rotate(360deg)}}
+      .glow{animation:breathe 5.5s ease-in-out infinite}.scanbar{animation:sweep 7.5s ease-in-out infinite}
+      .p1{animation:floatY 4.7s ease-in-out infinite}.p2{animation:floatY 6.1s ease-in-out infinite}.p3{animation:floatX 5.3s ease-in-out infinite}
+      .status{transform-box:fill-box;transform-origin:center;animation:status 1.8s ease-in-out infinite}
+      .word{animation:spotlight 8s ease-in-out infinite}.w2{animation-delay:2s}.w3{animation-delay:4s}.w4{animation-delay:6s}
+      .monofill{animation:breathe 3.6s ease-in-out infinite}.ring{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
     </style>
   </defs>
   <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
   <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
+  <rect class="glow" width="1200" height="360" rx="24" fill="url(#glow)" opacity="0.72"/>
+  <g transform="skewX(-13)"><rect class="scanbar" x="-260" y="0" width="220" height="360" fill="url(#scan)" opacity="0.75"/></g>
   <path d="M0 312C210 277 340 342 563 310S908 255 1200 307V360H0Z" fill="#34d399" opacity="0.045"/>
+  <g fill="#6ee7b7">
+    <circle class="p1" cx="735" cy="71" r="2" opacity="0.35"/>
+    <circle class="p2" cx="803" cy="292" r="2.5" opacity="0.28"/>
+    <circle class="p3" cx="1135" cy="325" r="1.8" opacity="0.4"/>
+  </g>
 
   <g class="sans">
     <rect x="64" y="49" width="228" height="34" rx="17" fill="#0c2d2a" stroke="#34d399" stroke-opacity="0.55"/>
-    <circle cx="84" cy="66" r="5" fill="#34d399"/>
+    <circle class="status" cx="84" cy="66" r="5" fill="#34d399"/>
     <text x="99" y="71" fill="#b8f7dc" font-size="12" font-weight="700" letter-spacing="1.4">OPEN TO REMOTE ROLES</text>
 
     <text x="64" y="153" fill="#f8fafc" font-size="58" font-weight="760" letter-spacing="-1.8">Ramphal Harrilal</text>
@@ -42,20 +66,21 @@
     <text x="66" y="265" fill="#b8c7d9" font-size="17">and practical software built around how people actually work.</text>
 
     <g transform="translate(66 300)">
-      <text class="mono" x="0" y="14" fill="#6ee7b7" font-size="13">solve</text>
+      <text class="mono word" x="0" y="14" fill="#6ee7b7" font-size="13" opacity="0.5">solve</text>
       <circle cx="53" cy="9" r="2.5" fill="#456176"/>
-      <text class="mono" x="67" y="14" fill="#94a3b8" font-size="13">document</text>
+      <text class="mono word w2" x="67" y="14" fill="#94a3b8" font-size="13" opacity="0.5">document</text>
       <circle cx="145" cy="9" r="2.5" fill="#456176"/>
-      <text class="mono" x="159" y="14" fill="#94a3b8" font-size="13">improve</text>
+      <text class="mono word w3" x="159" y="14" fill="#94a3b8" font-size="13" opacity="0.5">improve</text>
       <circle cx="224" cy="9" r="2.5" fill="#456176"/>
-      <text class="mono" x="238" y="14" fill="#94a3b8" font-size="13">deliver</text>
+      <text class="mono word w4" x="238" y="14" fill="#94a3b8" font-size="13" opacity="0.5">deliver</text>
     </g>
   </g>
 
   <g transform="translate(873 50)" filter="url(#shadow)">
     <rect width="263" height="260" rx="24" fill="#071827" stroke="#8cf3d0" stroke-opacity="0.24"/>
     <rect x="20" y="20" width="223" height="220" rx="18" fill="#0a2130" stroke="#ffffff" stroke-opacity="0.07"/>
-    <circle cx="132" cy="91" r="52" fill="#0f3e3c" stroke="url(#monogram)" stroke-width="2"/>
+    <circle class="monofill" cx="132" cy="91" r="52" fill="#0f3e3c" stroke="url(#monogram)" stroke-width="2"/>
+    <circle class="ring" cx="132" cy="91" r="59" fill="none" stroke="#6ee7b7" stroke-width="1.3" stroke-dasharray="18 12" opacity="0.42"/>
     <text class="sans" x="132" y="110" text-anchor="middle" fill="url(#monogram)" font-size="52" font-weight="800" letter-spacing="-4">RH</text>
     <text class="sans" x="132" y="171" text-anchor="middle" fill="#f1f5f9" font-size="15" font-weight="700">SUPPORT THAT MOVES</text>
     <text class="sans" x="132" y="192" text-anchor="middle" fill="#f1f5f9" font-size="15" font-weight="700">WORK FORWARD</text>
