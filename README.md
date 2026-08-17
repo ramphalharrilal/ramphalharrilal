@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header-motion.svg?v=20260817-hindu" width="100%" alt="Ramphal Harrilal — Websites, Support and Practical Business Solutions" />
+  <img src="assets/profile-header-hindu-motion.svg" width="100%" alt="Ramphal Harrilal — Websites, Support and Practical Business Solutions" />
 </p>
 
 <p align="center">
