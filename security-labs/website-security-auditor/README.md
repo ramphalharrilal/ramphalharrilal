@@ -24,6 +24,12 @@ python audit.py --test
 
 Open `reports/demo/report.html` in a browser. The JSON contains the same observations. The HTML is self-contained and can be printed to PDF through the browser. The demo is explicitly synthetic.
 
+## Offline assessment dashboard
+
+Download [dashboard.html](dashboard.html) and open it locally in a modern browser. It starts with a fictional sample. Select **Open assessment JSON** to import a generated report.json file. Filter findings by priority, or select **Print / save PDF** to print the complete report. The dashboard does not perform live audits; use audit.py to generate results. The imported report stays in memory and is not uploaded or saved in browser storage. Close the tab to discard it.
+
+Manual acceptance checklist (not yet executed): load the sample, verify counts of 0 high / 4 medium / 1 low / 3 informational, filter medium findings, import an actual demo JSON report, reject malformed JSON, and check the print layout. Browser testing remains pending.
+
 ## Run an authorized assessment
 
 Only use a website you own or have explicit permission to review. Substitute its approved URL:
