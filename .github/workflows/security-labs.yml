@@ -1,0 +1,33 @@
+name: Security lab self-tests
+on:
+  push:
+    paths:
+      - 'security-labs/**'
+      - '.github/workflows/security-labs.yml'
+  pull_request:
+    paths:
+      - 'security-labs/**'
+      - '.github/workflows/security-labs.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  self-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Compile Python tools
+        run: python -m compileall -q security-labs
+      - name: Run offline and loopback self-tests
+        run: |
+          python security-labs/website-security-auditor/audit.py --test
+          python security-labs/phishing-investigation-lab/investigate.py --test
+          python security-labs/soc-incident-response-lab/triage.py --test
+          python security-labs/network-diagnostics-toolkit/diagnose.py --test
+          python security-labs/website-monitor-alerting/monitor.py --test
+          python security-labs/wordpress-security-lab/review.py --test
+          python security-labs/it-helpdesk-automation/route.py --test
