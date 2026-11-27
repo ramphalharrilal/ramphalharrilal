@@ -1,0 +1,25 @@
+title: PowerShell Encoded Command Indicator
+id: 2b803c4d-f96e-4aad-98e3-b786f9394fa2
+status: experimental
+description: Identifies a common encoded-command switch in PowerShell process creation. Requires contextual review.
+author: Portfolio lab
+date: 2026-11-27
+tags:
+  - attack.execution
+  - attack.t1059.001
+logsource:
+  category: process_creation
+  product: windows
+detection:
+  selection_image:
+    Image|endswith:
+      - '\powershell.exe'
+      - '\pwsh.exe'
+  selection_switch:
+    CommandLine|contains:
+      - ' -enc '
+      - ' -encodedcommand '
+  condition: selection_image and selection_switch
+falsepositives:
+  - Legitimate administrative automation
+level: medium

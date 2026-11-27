@@ -77,6 +77,10 @@ SiteCare answers the questions a business owner actually needs resolved: can cus
 
 [Open the live dashboard →](https://ramphalharrilal.github.io/website-care-monitor/) · [Explore the repository →](https://github.com/ramphalharrilal/website-care-monitor)
 
+## Security & IT engineering labs
+
+[Explore the lab collection](security-labs/): HTTP security headers, email triage, SOC investigation, Sigma detection, network diagnostics, monitoring, WordPress hardening and help-desk automation. These exercises use synthetic evidence and demonstrate defensive engineering concepts, not production incident response claims.
+
 ## Software & platforms
 
 <p align="center">
